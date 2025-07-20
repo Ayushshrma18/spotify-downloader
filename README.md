@@ -44,7 +44,7 @@ A beautiful, feature-rich Python application to download music from Spotify with
 ### Option 2: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/spotify-downloader.git
+git clone https://github.com/Ayushshrma18/spotify-downloader.git
 cd spotify-downloader
 
 # Install dependencies
